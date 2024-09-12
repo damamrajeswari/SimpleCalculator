@@ -1,0 +1,46 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.button{
+    padding: 20px;
+    margin:0 3px;
+    border: 0;
+    border-radius:30px ;
+    width: 66px;
+}
+.button-img{
+    padding: 7px 14px 21px 14px;
+    margin:0 3px;
+    border: 0;
+    border-radius:30px ;
+    width: 66px;
+    justify-content: center;
+    height: 59px;
+    
+}
+.button-img img{
+    width: 25px;
+}
+.button-zero{
+    padding: 20px;
+    margin:0 3px;
+    border: 0;
+    border-radius:30px ;
+    width: 144px;
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    width: 275px;
+    height: 35px;
+    margin: 0;
+    padding: 10px 10px;
+    border: 0;
+    border-radius: 5px;
+    font-size: 30px;
+
+}
